@@ -1,2 +1,2 @@
-# WHMCSClientMyDomainWidget
-Client Portal My Domain Widget
+#1. Go to includes/hooks
+#2. upload file clientMyDomains.php
